@@ -2,4 +2,8 @@
 
 body {
 background-image:url('https://cloud.githubusercontent.com/assets/8630398/6042897/0540c37a-ac4e-11e4-8798-c47877884d76.jpg');
+
+background-repeat:no-repeat;
+
+background-size:cover;
 }
